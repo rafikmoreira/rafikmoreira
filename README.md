@@ -9,7 +9,7 @@
 		<br>
 		Viktor E. Frankl.
 	</p>
-	<p>Fã do Linux e do TypeScript </p>
+	<p>Linux && TypeScript </p>
 	<div id="suggestions">
 	<a href="https://rafikmoreira.dev.br">Site pessoal</a> —
 	<a href="https://www.linkedin.com/in/rafikmoreira">Linkedin</a> —
